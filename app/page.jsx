@@ -6,8 +6,8 @@ const Home = () => {
 
       <h1 className="head_text text-center">
         Os piores apartamentos
-        <br className="max-md:hidden" />
-        <span className="blue_gradient text-center">para não se alugar</span>
+        <br className="max-md:hidden" /> para
+        <span className="blue_gradient text-center"> não se alugar</span>
       </h1>
       <p className="desc text-center">
         Pesquise, publique e <b>não</b> alugue apartamentos problemáticos baseado em reviews 100% humanos e poupe sua sanidade mental.
